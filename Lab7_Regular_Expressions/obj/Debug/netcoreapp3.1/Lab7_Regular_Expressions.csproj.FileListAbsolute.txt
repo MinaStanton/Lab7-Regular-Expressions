@@ -1,0 +1,11 @@
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab7_Regular_Expressions\Lab7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab7_Regular_Expressions.exe
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab7_Regular_Expressions\Lab7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab7_Regular_Expressions.deps.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab7_Regular_Expressions\Lab7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab7_Regular_Expressions.runtimeconfig.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab7_Regular_Expressions\Lab7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab7_Regular_Expressions.runtimeconfig.dev.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab7_Regular_Expressions\Lab7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab7_Regular_Expressions.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab7_Regular_Expressions\Lab7_Regular_Expressions\bin\Debug\netcoreapp3.1\Lab7_Regular_Expressions.pdb
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab7_Regular_Expressions\Lab7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab7_Regular_Expressions.csprojAssemblyReference.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab7_Regular_Expressions\Lab7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab7_Regular_Expressions.AssemblyInfoInputs.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab7_Regular_Expressions\Lab7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab7_Regular_Expressions.AssemblyInfo.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab7_Regular_Expressions\Lab7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab7_Regular_Expressions.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab7_Regular_Expressions\Lab7_Regular_Expressions\obj\Debug\netcoreapp3.1\Lab7_Regular_Expressions.pdb
